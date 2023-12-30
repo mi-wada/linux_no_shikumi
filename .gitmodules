@@ -1,0 +1,3 @@
+[submodule "linux-in-practice-2nd"]
+	path = linux-in-practice-2nd
+	url = https://github.com/satoru-takeuchi/linux-in-practice-2nd.git
