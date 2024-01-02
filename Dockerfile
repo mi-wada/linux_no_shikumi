@@ -23,7 +23,7 @@ RUN apt-get update && apt-get install -y \
     psmisc
 
 RUN adduser `id -un` libvirt
-# RUN adduser `id -un` libvert-qemu
+RUN adduser `id -un` libvirt-qemu
 RUN adduser `id -un` kvm
 
 COPY ./linux-in-practice-2nd /linux-in-practice-2nd

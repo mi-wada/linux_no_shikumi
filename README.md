@@ -1,5 +1,7 @@
 # For Linuxのしくみ
 
+Reading log: <https://zenn.dev/mitsuaki/scraps/e099a6a0377531>
+
 ## init
 
 ```zsh
